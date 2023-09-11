@@ -38,4 +38,6 @@
   <a href="https://www.linkedin.com/in/domingos-neto-b6a50214b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
 [![Generate Snake](https://github.com/domingosliraneto/domingosliraneto/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/domingosliraneto/domingosliraneto/actions/workflows/main.yml)
+
+![Snake animation](https://raw.githubusercontent.com/domingosliraneto/domingosliraneto/a313bd4aa84fb2aaa52fae7fdaed36bb13cc2bd7/github-snake-dark.svg)
 </div>
